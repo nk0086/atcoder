@@ -1,0 +1,12 @@
+# ルート以外の.gitディレクトリを無視
+*/**/.git/
+
+# 一般的な無視ファイル
+target/
+**/*.rs.bk
+Cargo.lock
+.DS_Store
+.vscode/
+.cursorrules
+input/
+output/
