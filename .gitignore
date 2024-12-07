@@ -10,3 +10,7 @@ Cargo.lock
 .cursorrules
 input/
 output/
+*.txt
+*.yml
+tools/
+rules/
