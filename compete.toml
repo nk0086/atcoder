@@ -116,6 +116,7 @@ dev-dependencies = '''
 
 
 [template.new.copy-files]
+"rust-toolchain.toml" = "rust-toolchain.toml"
 
 [new]
 kind = "cargo-compete"
